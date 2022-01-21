@@ -10,3 +10,12 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+#app {
+    color: white;
+    width: 100%;
+    background-color: orangered;
+}
+
+.carousel {
+    color: rgb(55,55,55);
+}
